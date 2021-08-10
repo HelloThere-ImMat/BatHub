@@ -1,0 +1,61 @@
+[
+    {
+        "writer":"Aristote",
+        "image":"ambition",
+        "quotes":[
+        "Une seule hirondelle ne fait pas le printemps ; un seul acte moral ne fait pas la vertu.",
+        "La simplicité n'est pas un but, mais on arrive à la simplicité en dépit de soi, comme on approche le sens réel des choses.",
+        "Rien dans notre intelligence qui ne soit passé par nos sens.",
+        "De la Libye vient toujours quelque chose de nouveau.",
+        "Il y a trois sortes d'hommes : les vivants, les morts, et ceux qui vont sur la mer."
+        ]
+    },
+
+    {
+        "writer":"Albert Camus",
+        "image":"breath",
+        "quotes":[
+        "Celui qui désespère des événements est un lâche, mais celui qui espère en la condition humaine est un fou.",
+        "Les doutes, c’est ce que nous avons de plus intime.",
+        "Créer, c’est vivre deux fois.",
+        "La bêtise insiste toujours.",
+        "Un homme est toujours la proie de ses vérités."
+        ]
+    },
+
+    {
+        "writer":"Denis Diderot",
+        "image":"calm",
+        "quotes":[
+        "Les choses dont on parle le plus parmi les hommes sont assez ordinairement celles qu’on connaît le moins.",
+        "Quand on écrit, faut-il tout écrire ? Quand on peint, faut-il tout peindre ? De grâce, laissez quelque chose à suppléer par mon imagination !",
+        "Celui qui se sera étudié lui-même sera bien avancé dans la connaissance des autres.",
+        "L’esprit dit de jolies choses et n’en fait que de petites.",
+        "Tout s’anéantit, tout périt, tout passe : il n’y a que le monde qui reste, il n’y a que le temps qui dure."
+        ]
+    },
+
+    {
+        "writer":"Gandhi",
+        "image":"focus",
+        "quotes":[
+        "Je n'aime pas le mot tolérance, mais je n'en trouve pas de meilleur.",
+        "Sans doute serais-je chrétien, si les chrétiens l'étaient vingt-quatre heures par jour.",
+        "La démocratie devrait assurer au plus faible les mêmes opportunités qu'au plus fort.",
+        "Il vaut mieux mettre son coeur dans la prière sans trouver de paroles que trouver des mots sans y mettre son coeur.",
+        "L’épée de la résistance passive n'a pas besoin de fourreau et nul ne peut en être dépossédé par la force."
+        ]
+    },
+
+    {
+        "writer":"Marc Levy",
+        "image":"reflect",
+        "quotes":[
+        "L’intelligence sans celle du cœur ce n'est que de la logique et ça n'est pas grand-chose.",
+        "La solitude est un jardin où l'âme se dessèche, les fleurs qui y poussent n'ont pas de parfum.",
+        "C’est pendant qu'on calcule, qu'on analyse les pour et les contre, que la vie passe, et qu'il ne se passe rien.",
+        "Personne n’est propriétaire du bonheur, on a parfois la chance d’avoir un bail, et d’en être locataire. Il faut être très régulier sur le paiement de ses loyers, on se fait exproprier très vite.",
+        "Rien n’est impossible, seules les limites de nos esprits définissent certaines choses comme inconcevables."
+        ]
+    }
+]
